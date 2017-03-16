@@ -65,11 +65,11 @@ html {
     padding: 15px;
 }
 
-.navigation a:active {
-    color: #0099cc;
+ul.navigation li a:active { 
+    color: #fff;
 }
 
-.navigation a:hover:not(.active) {
+ul.navigation li a:hover:not(.active) {
     color: #0099cc;
 }
 
@@ -97,8 +97,8 @@ hr {
     padding: 15px;
 }
 .footer {
-    background-color: #0099cc;
-    color: #ffffff;
+    /*background-color: #0099cc;*/
+    color: #0099cc;
     text-align: center;
     font-size: 12px;
     padding: 15px;
