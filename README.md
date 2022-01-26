@@ -43,5 +43,5 @@
 - box-sizing
 
 # About Me:
-- saya Erwin Wahyu Ramadhan (erwar) seseorang dengan background IT yang ingin menjadi fullstack developer javascript yang handal.
+- saya Erwin Wahyura seseorang dengan background IT yang ingin menjadi fullstack developer javascript yang handal.
 - sebagai pemilik website ini, nantinya website ini akan selalu dikembangkan, sehingga kaya content dan memiliki interface yang responsive.
